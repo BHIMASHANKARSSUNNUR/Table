@@ -13,7 +13,9 @@ export class AppComponent {
     {id:2,name:"react"},
     {id:3,name:"vue"},
     {id:4,name:"bootstrap"},
-    {id:5,name:"foundation"}
+    {id:5,name:"foundation"},
+    {id:6,name:"nextjs"},
+
 
   ]
   Searchtext=""
